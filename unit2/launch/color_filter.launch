@@ -1,4 +1,0 @@
-<launch>
-    <node pkg="unit2" type="color_filter2.py" name="color_filter"  output="screen">
-    </node>
-</launch>

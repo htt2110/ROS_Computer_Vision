@@ -1,4 +1,0 @@
-<launch>
-    <node pkg="unit2" type="sobela2.py" name="sobela"  output="screen">
-    </node>
-</launch>

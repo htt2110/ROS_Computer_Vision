@@ -1,4 +1,0 @@
-<launch>
-    <node pkg="unit2" type="transformationsx.py" name="transformationsx" output="screen">
-    </node>
-</launch>

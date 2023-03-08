@@ -1,4 +1,0 @@
-<launch>
-    <node pkg="unit2" type="canny.py" name="canny_filter" output="screen">
-    </node>
-</launch>
