@@ -1,7 +1,0 @@
-<launch>
-
-    <node pkg="unit5" type="exercise5_6.py" name = "load_polygon2" output="screen">
-
-    </node>
-
-</launch>
