@@ -1,6 +1,0 @@
-<launch>
-
-    <node pkg="unit3_exercises" type="exercise3_5.py" name="load_people" output="screen">
-    </node>
-
-</launch>

@@ -1,9 +1,0 @@
-<launch>
-
-    <!--Flying-->
-    <node pkg="unit3_exercises" type="flying_drone3.py" name="flying_drone3" output="screen">
-    </node>
-    <!--Face_recognition-->
-    <node pkg="unit3_exercises" type="exercise3_4.py" name="load_image" output="screen">
-    </node>
-</launch>
