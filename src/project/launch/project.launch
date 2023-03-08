@@ -1,0 +1,15 @@
+<launch>
+
+    <node pkg="project" type="artag.py" name="load_polygon2" output="screen">
+    </node>
+
+    <node pkg="project" type="people.py" name="load_people" output="screen">
+    </node>
+
+    <node pkg="project" type="picture.py" name="load_face" output="screen">
+    </node>
+
+    <!-- <node pkg="project" type="wanted.py" name="load_feature" output="screen">
+    </node> -->
+
+</launch>

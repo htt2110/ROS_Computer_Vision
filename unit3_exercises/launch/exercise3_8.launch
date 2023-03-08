@@ -1,0 +1,6 @@
+<launch>
+
+    <node pkg="unit3_exercises" type="exercise3_8.py" name="load_video" output="screen">
+    </node>
+
+</launch>
